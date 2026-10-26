@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local dataset and generated analysis file
+/data/Trump_Labeled_Combined_Rev_Speeches_Final_9-24-2024.json
+/data/Trump_Labeled_Combined_Rev_Speeches_Final_9-24-2024.csv
